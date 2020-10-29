@@ -12,4 +12,4 @@ Things I've learned:
 - ![SASS](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
 - Responsive web design
 
-![screen](https://imgur.com/a/ghltKX6)
+![screen](https://imgur.com/DDHxqB5)
