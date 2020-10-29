@@ -3,7 +3,7 @@
 <p align='center'>
 <a href="https://dev.to/callmeferre"><img height="30" src="./icons/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/callmeferre"><img height="30" src="./icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/callmeferre"><img height="30" src="./icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/callmeferre"><img height="30" src="./icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ana-castrillo-soria-48052216a/"><img height="30" src="./icons/linkedin.png?raw=true"></a>
 </p>
 
