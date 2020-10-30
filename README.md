@@ -20,4 +20,4 @@ to be a front-end developer at [Adalab Digital](https://adalab.es/), based in Ma
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![VSCode](https://img.shields.io/badge/-VS%20-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
