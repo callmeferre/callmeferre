@@ -6,7 +6,7 @@
 <a href="https://instagram.com/callmeferre"><img height="30" src="./icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ana-castrillo-soria-48052216a/"><img height="30" src="./icons/linkedin.png?raw=true"></a>
 </p>
-#
+# .
 ### Hi there!
 
 I'm a recently graduated graphic designer at [esd](https://esdmadrid.es/) and currently learning
