@@ -9,10 +9,12 @@
 
 ### Hi there!
 
+<img align="right" alt="screen" src="https://i.imgur.com/DDHxqB5.png" width="300"/>
+
 I'm a recently graduated graphic designer at [esd](https://esdmadrid.es/) and currently learning
 to be a front-end developer at [Adalab Digital](https://adalab.es/), based in Madrid, Spain.
 <br><br/>
-<img align="right" alt="screen" src="https://i.imgur.com/DDHxqB5.png" width="300"/>
+
 
 ## 🛠️ Tecnologies and tools
 
