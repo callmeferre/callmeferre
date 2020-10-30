@@ -33,4 +33,4 @@ to be a front-end developer at [Adalab Digital](https://adalab.es/), based in Ma
 
 ---
 
-![AnaCastrillo's github stats](https://github-readme-stats.vercel.app/api?username=AnaCastrillo&theme=gruvbox&show_icons=true)
+![AnaCastrillo's github stats](https://github-readme-stats.vercel.app/api?username=AnaCastrillo&theme=algolia&show_icons=true)
