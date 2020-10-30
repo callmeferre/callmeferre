@@ -32,3 +32,5 @@ to be a front-end developer at [Adalab Digital](https://adalab.es/), based in Ma
 ![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+
+![AnaCastrillo's github stats](https://github-readme-stats.vercel.app/api?username=AnaCastrillo&theme=gruvbox&show_icons=true)
