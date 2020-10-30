@@ -12,7 +12,7 @@
 I'm a recently graduated graphic designer at [esd](https://esdmadrid.es/) and currently learning
 to be a front-end developer at [Adalab Digital](https://adalab.es/), based in Madrid, Spain.
 <br><br/>
-<img align="right" margin-right="30" alt="screen" src="https://i.imgur.com/DDHxqB5.png" width="300"/>
+<img align="right" right="30" alt="screen" src="https://i.imgur.com/DDHxqB5.png" width="300"/>
 Things I've learned:
 
 - ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
