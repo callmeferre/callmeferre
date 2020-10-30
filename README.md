@@ -15,7 +15,7 @@
 
 I'm a recently graduated graphic designer at [esd](https://esdmadrid.es/) and currently learning
 to be a front-end developer at [Adalab Digital](https://adalab.es/), based in Madrid, Spain. Beside coding, I enjoy playing dnd and watching series.
-<br><br/>
+<br></br>
 
 ---
 
@@ -35,4 +35,6 @@ to be a front-end developer at [Adalab Digital](https://adalab.es/), based in Ma
 
 ![AnaCastrillo's github stats](https://github-readme-stats.vercel.app/api?username=AnaCastrillo&theme=algolia&show_icons=true)
 
-These are baby steps, but I'll keep growing.
+<p align=right> These are baby steps, but I'll keep growing.</p>
+
+
