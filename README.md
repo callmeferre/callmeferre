@@ -30,3 +30,5 @@ to be a front-end developer at [Adalab Digital](https://adalab.es/), based in Ma
 ![Trello](https://img.shields.io/badge/-Trello-0079BF.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-E01563.svg?style=for-the-badge&logo=Slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
+
+---
