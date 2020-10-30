@@ -7,14 +7,17 @@
 <a href="https://www.linkedin.com/in/ana-castrillo-soria-48052216a/"><img height="30" src="./icons/linkedin.png?raw=true"></a>
 </p>
 
+---
+
 ### Hi there!
 
 <img align="right" alt="screen" src="https://i.imgur.com/DDHxqB5.png" width="300"/>
 
 I'm a recently graduated graphic designer at [esd](https://esdmadrid.es/) and currently learning
-to be a front-end developer at [Adalab Digital](https://adalab.es/), based in Madrid, Spain.
+to be a front-end developer at [Adalab Digital](https://adalab.es/), based in Madrid, Spain. Beside coding, I enjoy playing dnd and watching series.
 <br><br/>
 
+---
 
 ## 🛠️ Tecnologies and tools
 
