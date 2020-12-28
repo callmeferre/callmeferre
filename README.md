@@ -16,6 +16,8 @@
 I'm a recently graduated graphic designer at [esd](https://esdmadrid.es/) and currently learning
 to be a front-end developer at [Adalab Digital](https://adalab.es/), based in Madrid, Spain. Beside coding, I enjoy playing dnd and sandbox videogames.
 <br></br>
+I like things to be done well and I pay attention to details. When I explain the projects I have worked on, you can see how sure I am of them, which conveys confidence regarding my work.
+<br></br>
 
 ---
 
@@ -25,6 +27,7 @@ to be a front-end developer at [Adalab Digital](https://adalab.es/), based in Ma
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 ![GIT](https://img.shields.io/badge/-git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF.svg?style=for-the-badge&logo=Trello&logoColor=white)
