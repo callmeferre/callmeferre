@@ -14,12 +14,13 @@
 
 <img align="right" alt="screen" src="https://i.imgur.com/DDHxqB5.png" width="300"/>
 
-I'm a recently graduated graphic designer at [esd](https://esdmadrid.es/) and currently learning
-to be a front-end developer at [Adalab Digital](https://adalab.es/), based in Madrid, Spain. Beside coding, I enjoy playing dnd and sandbox videogames.
+I'm a recently graduated graphic designer at [esd](https://esdmadrid.es/) and [Adalaber](https://adalab.es/), based in Madrid, Spain. Beside coding, I enjoy playing dnd and sandbox videogames.
 <br></br>
 I like things to be done well and I pay attention to details. When I explain the projects I have worked on, you can see how sure I am of them, which conveys confidence regarding my work.
 <br></br>
 
+---
+## [Easy JS exercise](https://github.com/callmeferre/easy-JS-exercises)
 ---
 
 ## 🛠️ Tecnologies and tools
