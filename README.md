@@ -5,7 +5,7 @@
 <a href="https://twitter.com/callmeferre"><img src="https://img.icons8.com/material/48/000000/twitter--v1.png"/></a>&nbsp;&nbsp;
 <a href="https://instagram.com/callmeferre"><img src="https://img.icons8.com/material/48/000000/instagram-new--v1.png"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anacastrillosoria/"><img src="https://img.icons8.com/material/48/000000/linkedin--v1.png"/></a>&nbsp;&nbsp;
-<a href="https://codepen.io/callmeferre"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" /></a>&nbsp;&nbsp;
+<a href="https://codepen.io/callmeferre"><img src="https://img.icons8.com/material/48/000000/codepen.png"/></a>&nbsp;&nbsp;
 </p>
 
 ---
