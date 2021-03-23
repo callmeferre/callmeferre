@@ -1,11 +1,11 @@
 # ![callmeferre](https://i.imgur.com/2ZH1ist.png?1)
 
 <p align='center'>
-<a href="https://behance.com/callmeferre"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/behance.svg" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/callmeferre"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/callmeferre"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ana-castrillo-soria-48052216a/"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>&nbsp;&nbsp;
-  <a href="https://codepen.io/callmeferre"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" /></a>&nbsp;&nbsp;
+<a href="https://behance.com/callmeferre"><img src="https://img.icons8.com/material/48/000000/behance.png"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/callmeferre"><img src="https://img.icons8.com/material/48/000000/twitter--v1.png"/></a>&nbsp;&nbsp;
+<a href="https://instagram.com/callmeferre"><img src="https://img.icons8.com/material/48/000000/instagram-new--v1.png"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/anacastrillosoria/"><img src="https://img.icons8.com/material/48/000000/linkedin--v1.png"/></a>&nbsp;&nbsp;
+<a href="https://codepen.io/callmeferre"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" /></a>&nbsp;&nbsp;
 </p>
 
 ---
