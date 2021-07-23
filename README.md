@@ -14,9 +14,7 @@
 
 <img align="right" alt="screen" src="https://i.imgur.com/DDHxqB5.png" width="300"/>
 
-I'm a recently graduated graphic designer at [esd](https://esdmadrid.es/) and [Adalaber](https://adalab.es/), based in Madrid, Spain. Beside coding, I enjoy playing dnd and sandbox videogames.
-<br></br>
-I like things to be done well and I pay attention to details. When I explain the projects I have worked on, you can see how sure I am of them, which conveys confidence regarding my work.
+I'm a graphic designer,graduated at [esdmadrid](https://esdmadrid.es/), and [Adalaber](https://adalab.es/), based in Madrid, Spain. Begining my journey at [42](https://www.42madrid.com/) as a student. Beside coding, I enjoy playing dnd and sandbox videogames.
 <br></br>
 
 ---
