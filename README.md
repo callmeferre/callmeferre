@@ -37,6 +37,8 @@ I'm a graphic designer,graduated at [esdmadrid](https://esdmadrid.es/), and [Ada
 ---
 
 ![callmeferre's github stats](https://github-readme-stats.vercel.app/api?username=callmeferre&theme=algolia&show_icons=true)
+[![callmeferre's 42 stats](https://badge42.herokuapp.com/api/stats/acastril?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
 
 
 
