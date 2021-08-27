@@ -19,7 +19,8 @@ I'm a graphic designer,graduated at [esdmadrid](https://esdmadrid.es/), and [Ada
 
 ---
 ## [Easy JS exercise](https://github.com/callmeferre/easy-JS-exercises)
-## [Libft](https://github.com/callmeferre/Libft)
+## [42.Libft](https://github.com/callmeferre/Libft)
+## [42.Get next line](https://github.com/callmeferre/get-new-line)
 ---
 
 ## 🛠️ Tecnologies and tools
