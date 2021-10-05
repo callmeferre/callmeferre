@@ -30,6 +30,7 @@ I'm a graphic designer,graduated at [esdmadrid](https://esdmadrid.es/), and [Ada
 ![SASS](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react%20-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
+![C](https://img.shields.io/badge/-C-007ACC.svg?style=for-the-badge&logo=c&logoColor=white)
 ![GIT](https://img.shields.io/badge/-git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF.svg?style=for-the-badge&logo=Trello&logoColor=white)
