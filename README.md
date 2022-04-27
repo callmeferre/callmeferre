@@ -42,7 +42,7 @@ I'm a graphic designer,graduated at [esdmadrid](https://esdmadrid.es/), and [Ada
 ![callmeferre's github stats](https://github-readme-stats.vercel.app/api?username=callmeferre&theme=algolia&show_icons=true)
 [![acastril's 42 stats](https://badge42.vercel.app/api/v2/cl2h8hhpf010709mz9207c0i6/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
 
-[![acastril's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2h8hhpf010709mz9207c0i6/project/2389011)](https://github.com/JaeSeoKim/badge42)
+[![acastril's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2h8hhpf010709mz9207c0i6/project/2389011)](https://github.com/JaeSeoKim/badge42) Push-swap
 
 
 
